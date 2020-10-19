@@ -85,3 +85,12 @@ INFO  04:28:54 Content root path: C:\Users\vimal\Desktop\Simulation project\Movi
 ERROR 04:29:10 get method invoked
 ERROR 04:29:41 get method invoked
 ERROR 04:29:48 get method invoked
+INFO  09:10:34 Application started. Press Ctrl+C to shut down.
+INFO  09:10:34 Application started. Press Ctrl+C to shut down.
+INFO  09:10:35 Hosting environment: Development
+INFO  09:10:35 Hosting environment: Development
+INFO  09:10:35 Content root path: C:\Users\vimal\Desktop\Simulation project\MovieDetails
+INFO  09:10:35 Content root path: C:\Users\vimal\Desktop\Simulation project\MovieDetails
+ERROR 09:10:49 get method invoked
+ERROR 09:17:10 get method invoked
+ERROR 09:17:44 get method invoked
